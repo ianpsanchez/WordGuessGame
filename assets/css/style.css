@@ -1,0 +1,44 @@
+body {
+
+}
+
+.bg_poster {
+    /* opacity: 0.5; */
+    margin: auto;
+    /* background-size: 1280px 960px; */
+    /* background-size: auto; */
+    height: 960px;
+    width: 1280px;
+    background-image: url(https://images3.alphacoders.com/174/174369.jpg);
+    background-repeat: no-repeat;
+}
+
+#divLeft {
+    /* width: 220px; */
+    height: 940px;
+    background-color: white;
+    opacity: .8;
+    /* position: relative; */
+    /* float: left; */
+
+}
+
+#divRight {
+    /* width: 220px;*/
+    height: 940px;
+    background-color: black;
+    /* align-content: center; */
+    opacity: 0.75;
+    color: white;
+    /* position: absolute;
+    float: left; */
+
+}
+
+.sizeup {
+    font-size: 24px;
+}
+
+#winorlose {
+    font-size: 48px;
+}
